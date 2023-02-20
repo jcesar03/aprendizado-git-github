@@ -1,0 +1,12 @@
+- **git branch**
+   - Mostra todas as branchs
+- **git branch [nome da branch]**
+   - Cria uma nova branch
+- **git checkout [nome da branch]**
+   - Altera pra branch selecionada
+- **git branch -d [nome da branch]**
+   - Exclui uma branch
+- **git checkout -b [nome da branch]**
+   - Cria uma nova branch e altera pra ela
+- **git merge [nome da branch]**
+   - Faz a integração da branch selecionada com a branch master
