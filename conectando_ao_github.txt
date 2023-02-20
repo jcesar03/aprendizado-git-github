@@ -1,0 +1,6 @@
+- **git remote add origin...**
+   - Adciona um repositorio de origem
+- **git push origin...**
+   - Empurra os commits para a origem
+- **git pull origin...**
+   - Baixa as alterações feitas no repositorio
